@@ -1,0 +1,2 @@
+https://github.com/microsoft/skills
+Official Microsoft org; frontend-ui-dark-ts from .github/plugins/azure-sdk-typescript/skills/ (listed on officialskills.sh).
